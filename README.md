@@ -1,0 +1,2 @@
+# django
+basics of django
